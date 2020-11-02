@@ -1,0 +1,50 @@
+body{
+	background-color: #aa00ff;
+}
+
+#wrapper{
+	margin: 0 auto;
+	height: 600px;
+	/*background-color: pink*/
+}
+
+#header{
+	text-align: center;
+	width: 100%;
+	height: 70px;
+	background-color: white;
+	font-family: courier;
+}
+
+#sidebar{
+	background-color: black;
+	font-family: courier;
+	 float: left;
+	 width:15%;
+	 height: 600px;
+}
+
+a{
+	color: white;
+	display: block;
+	padding: 25px;
+}
+
+#main{
+	background-color: #ffd700;
+	float: right;
+	width: 85%;
+	height: 600px;
+}
+
+#logo1{
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	top: 15px;
+}
+
+p{
+	text-align: center;
+	font-size: 30px
+}
